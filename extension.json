@@ -1,0 +1,6 @@
+{
+  "id": "sidebar-validator",
+  "name": "sidebar-validator",
+  "srcdoc": "./build/index.html",
+  "sidebar": true
+}
